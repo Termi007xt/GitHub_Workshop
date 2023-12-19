@@ -1,1 +1,2 @@
-This is Git workshop 
+This is Git workshop
+This is the second line.
