@@ -3,3 +3,4 @@ This is the second line.
 This is 3rd line.
 new line
 FEATURE1 EXCLUSVE LINE
+FEATURE2 EXCLUSIVE LINE
